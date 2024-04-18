@@ -1,0 +1,7 @@
+{
+  "main.js": "/amazon-connect/amazon-connect-chat-interface/static/js/amazon-connect-chat-interface.js",
+  "service-worker.js": "/amazon-connect/amazon-connect-chat-interface/service-worker.js",
+  "static/js/amazon-connect-chat-interface.js.LICENSE.txt": "/amazon-connect/amazon-connect-chat-interface/static/js/amazon-connect-chat-interface.js.LICENSE.txt",
+  "static/media/ico_logo_dk.svg": "/amazon-connect/amazon-connect-chat-interface/static/media/ico_logo_dk.a8aea59e.svg",
+  "workbox-32a34f02.js": "/amazon-connect/amazon-connect-chat-interface/workbox-32a34f02.js"
+}
